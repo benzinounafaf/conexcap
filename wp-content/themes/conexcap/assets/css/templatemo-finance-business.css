@@ -7,7 +7,7 @@ https://templatemo.com/tm-545-finance-business
 */
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Lato', sans-serif;
   overflow-x: hidden;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a.filled-button {
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -46,7 +46,7 @@ a.filled-button {
 
 a.filled-button:hover {
 	background-color: #fff;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 a.border-button {
@@ -64,7 +64,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 .section-heading {
@@ -80,7 +80,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 .section-heading span {
@@ -94,7 +94,7 @@ a.border-button:hover {
 
 #preloader {
   overflow: hidden;
-  background: #8c7c2f;
+  background: #FEC700;
   left: 0;
   right: 0;
   top: 0;
@@ -174,7 +174,7 @@ a.border-button:hover {
 /* Sub Header Style */
 
 .sub-header {
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 	height: 46px;
 	line-height: 46px;
 }
@@ -255,7 +255,10 @@ header .navbar {
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
 .background-header .navbar-brand h2 {
-	color: #8c7c2f!important;
+	color: #FEC700!important;
+}
+.background-header .navbar-brand img {
+	content:url("../images/Logo_CXC_mere_Prime_Ajust_RVB.png");
 }
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e!important;
@@ -265,7 +268,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #8c7c2f!important;
+	color: #FEC700!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
@@ -309,8 +312,8 @@ header .navbar {
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #8c7c2f;
-	border-bottom: 3px solid #8c7c2f;
+	color: #FEC700;
+	border-bottom: 3px solid #FEC700;
 }
 .navbar .navbar-toggler-icon {
 	background-image: none;
@@ -327,7 +330,7 @@ header .navbar {
 }
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #8c7c2f;
+	color: #FEC700;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -383,8 +386,8 @@ header .navbar {
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
-	height:70vh;
-	background-color: #0e2d45;
+	height:85vh;
+	background-color: #0F2B46;
 }
 
 /*.Modern-Slider .item-1 .img-fill {
@@ -457,7 +460,7 @@ ul.slick-dots {
   font-weight: 700;
   letter-spacing: 1px;
   /*color:#a4c639;*/
-  color: #8c7c2f;
+  color: #FEC700;
   animation:fadeOutRight 1s both;
 }
 
@@ -524,7 +527,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -582,7 +585,7 @@ ul.slick-dots {
 
 .fun-facts {
 	margin-top: 140px;
-	background-color: #0e2d45;
+	background-color: #0F2B46;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -608,7 +611,7 @@ ul.slick-dots {
 
 .fun-facts em {
 	font-style: normal;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 .fun-facts p {
@@ -630,7 +633,7 @@ ul.slick-dots {
 .count-digit {
     margin: 5px 0px;
     /*color: #a4c639;*/
-    color: #8c7c2f;
+    color: #FEC700;
     font-weight: 700;
     font-size: 36px;
 }
@@ -688,7 +691,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
 	font-style: normal;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 .more-info .right-content p {
@@ -729,7 +732,7 @@ ul.slick-dots {
 	margin-top: 8px;
 	font-weight: 600;
 	font-size: 14px;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 .testimonial-item img {
 	max-width: 60px;
@@ -762,7 +765,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #0e2d45;
+	background-color: #0F2B46;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
@@ -838,11 +841,11 @@ ul.slick-dots {
 
 .callback-form .contact-form button.border-button:hover {
 	background-color: #fff;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 .contact-us .contact-form button.filled-button {
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 	color: #fff;
 	border: none;
 	font-size: 13px;
@@ -860,7 +863,7 @@ ul.slick-dots {
 
 .contact-us .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 
@@ -934,7 +937,7 @@ footer ul.social-icons li a {
 }
 
 footer ul.social-icons li a:hover {
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 }
 
 footer ul.menu-list li {
@@ -952,7 +955,7 @@ footer ul.menu-list li a {
 }
 
 footer ul.menu-list li a:hover {
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 footer .contact-form input {
@@ -1013,7 +1016,7 @@ footer .contact-form ::placeholder {
 footer .contact-form button.filled-button {
 	background-color: transparent;
 	color: #fff;
-	background-color: #8c7c2f;
+	background-color: #FEC700;
 	border: none;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1030,7 +1033,7 @@ footer .contact-form button.filled-button {
 
 footer .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #8c7c2f;
+	color: #FEC700;
 }
 
 
@@ -1108,7 +1111,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content span {
-	color: #8c7c2f;
+	color: #FEC700;
 	font-weight: 600;
 	font-size: 14px;
 	display: block;
@@ -1143,7 +1146,7 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #8c7c2f;
+	background-color: #FEC700;
   	font-size: 20px;
   	color: #121212;
   	letter-spacing: 0.5px;
@@ -1204,7 +1207,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item i {
-	color: #8c7c2f;
+	color: #FEC700;
 	font-size: 48px;
 	margin-bottom: 40px;
 }
@@ -1222,7 +1225,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item a {
 	font-weight: 600;
-	color: #8c7c2f;
+	color: #FEC700;
 	font-size: 15px;
 }
 
@@ -1336,7 +1339,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #8c7c2f!important;
+		color: #FEC700!important;
 		border-bottom: none!important;
 	}
 }
