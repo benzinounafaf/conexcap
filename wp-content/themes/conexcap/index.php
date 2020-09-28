@@ -58,7 +58,7 @@
         </div>
     </div>
 
-    <div class="services">
+    <div class="services" id="services">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -145,7 +145,7 @@
         </div>
     </div>
 
-    <div class="more-info">
+    <div class="more-info" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -225,7 +225,7 @@
         </div>
     </div>
 
-    <div class="callback-form">
+    <div class="callback-form" id="contactus">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
