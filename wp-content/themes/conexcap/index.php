@@ -7,6 +7,7 @@
       <!-- Item -->
       <div class="item item-1">
         <div class="img-fill">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_194263951.jpeg" alt="">
             <div class="text-content">
               <h6>Qui sommes-nous ?</h6>
               <p>Filiale de ConexCap, ConexCap Patrimoine bénéfice de la solidité et de l’expertise de l’un des premiers acteurs européens, en gestion de patrimoine conforme à l’éthique musulmane.ConexCap, c’est 10 ans d’expérience en finance éthique en France (à travers la marque 570easi). D’abord en financement immobilier, puis en évoluant vers la gestion patrimoniale et en élargissant à l’Europe.</p>
@@ -18,6 +19,7 @@
       <!-- Item -->
       <div class="item item-2">
         <div class="img-fill">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_110722443.jpeg" alt="">
             <div class="text-content">
               <h6>Notre métier</h6>
               <p>Nous accompagnons nos clients dans
@@ -31,6 +33,7 @@
       <!-- Item -->
       <div class="item item-3">
         <div class="img-fill">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_191129289.jpeg" alt="">
             <div class="text-content">
               <h6>we have a solid background</h6>
               <h4>Market Analysis<br>&amp; Statistics</h4>
@@ -67,7 +70,7 @@
       </div>
       <div class="col-md-4">
         <div class="service-item">
-          <img src="assets/images/service_01.jpg" alt="">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_151423753.jpeg" alt="">
           <div class="down-content">
             <h4>La confiance</h4>
             <p>La relation de confiance et de long-terme que nous tissons avec nos clients est primordiale.</p>
@@ -77,7 +80,7 @@
       </div>
       <div class="col-md-4">
         <div class="service-item">
-          <img src="assets/images/service_02.jpg" alt="">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_184012339.jpeg" alt="">
           <div class="down-content">
             <h4>L’excellence</h4>
             <p>Exigence et rigueur nous animent au quotidien.</p>
@@ -87,7 +90,7 @@
       </div>
       <div class="col-md-4">
         <div class="service-item">
-          <img src="assets/images/service_03.jpg" alt="">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_190172178.jpeg" alt="">
           <div class="down-content">
             <h4>L’éthique</h4>
             <p>Nous assurons et préservons les intérêts de nos clients et intégrons une forte dimension éthique dans le choix des solutions proposées.</p>
@@ -176,6 +179,7 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_110722443.jpeg" alt=""></div>
               <h4>Stratégie patrimoniale</h4>
               <p>Nos stratégies tiennent compte de votre situation (personnelle, professionnelle et patrimoniale), de vos objectifs et de vos projets de vie. Cette analyse est nécessaire à la mise en place d’une stratégie optimisée.</p>
             </div>
@@ -183,6 +187,7 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_97147350.jpeg" alt=""></div>
               <h4>Investissements Financiers</h4>
               <p>Nos solutions d’investissement alliant performance et éthique vous permettent de faire fructifier votre patrimoine selon vos objectifs et votre tolérance aux risques.</p>
             </div>
@@ -190,6 +195,7 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_44715621.jpeg" alt=""></div>
               <h4>Transmission de votre patrimoine</h4>
               <p>Notre accompagnement global vous permet d’organiser sereinement votre succession et ainsi de mettre à l’abri vos proches en les faisant profiter pleinement du fruit de vos efforts.</p>
             </div>
@@ -197,6 +203,7 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_27102169.jpeg" alt=""></div>
               <h4>Financement immobilier</h4>
               <p>Résidence principale, secondaire, ou investissement locatif, le financement immobilier Murabaha rend possible l’acquisition immobilière en conformité avec votre éthique.</p>
             </div>
@@ -260,23 +267,23 @@
         <div class="owl-partners owl-carousel">
         
           <div class="partner-item">
-            <img src="assets/images/client-01.png" title="1" alt="1">
+              <img src="wp-content/themes/conexcap/assets/images/AdobeStock_227653969.jpeg" alt="">
           </div>
           
           <div class="partner-item">
-            <img src="assets/images/client-01.png" title="2" alt="2">
+              <img src="wp-content/themes/conexcap/assets/images/AdobeStock_245699145.jpeg" alt="">
           </div>
           
           <div class="partner-item">
-            <img src="assets/images/client-01.png" title="3" alt="3">
+              <img src="wp-content/themes/conexcap/assets/images/AdobeStock_199956436.jpeg" alt="">
           </div>
           
           <div class="partner-item">
-            <img src="assets/images/client-01.png" title="4" alt="4">
+              <img src="wp-content/themes/conexcap/assets/images/AdobeStock_199429331.jpeg" alt="">
           </div>
           
           <div class="partner-item">
-            <img src="assets/images/client-01.png" title="5" alt="5">
+              <img src="wp-content/themes/conexcap/assets/images/AdobeStock_198846913.jpeg" alt="">
           </div>
           
         </div>

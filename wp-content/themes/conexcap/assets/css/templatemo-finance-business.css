@@ -258,7 +258,7 @@ header .navbar {
 	color: #FEC700!important;
 }
 .background-header .navbar-brand img {
-	content:url("../images/Logo_CXC_mere_Prime_Ajust_RVB.png");
+	content:url("../images/old/Logo_CXC_mere_Prime_Ajust_RVB.png");
 }
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e!important;
@@ -345,7 +345,8 @@ header .navbar {
   display: block;
   overflow: hidden;
   position: relative;
-  text-align: center
+  text-align: center;
+  background-image:"./../images/AdobeStock_115245033.jpeg" ;
 }
 
 .img-fill img {
@@ -735,9 +736,9 @@ ul.slick-dots {
 	color: #FEC700;
 }
 .testimonial-item img {
-	max-width: 60px;
-	border-radius: 50%;
-	margin: 25px auto 0px auto;
+	/*max-width: 60px;*/
+	border-radius: 5%;
+	margin: 25px auto 20px auto;
 }
 
 
@@ -1059,7 +1060,7 @@ footer .contact-form button.filled-button:hover {
 
 .page-heading {
 	text-align: center;
-	background-image: url(../images/page-heading-bg.jpg);
+	background-image: url(../images/old/page-heading-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
