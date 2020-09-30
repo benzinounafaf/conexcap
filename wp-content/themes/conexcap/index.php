@@ -80,7 +80,8 @@
       </div>
       <div class="col-md-4">
         <div class="service-item">
-            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_184012339.jpeg" alt="">
+
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_190172178.jpeg" alt="">
           <div class="down-content">
             <h4>L’excellence</h4>
             <p>Exigence et rigueur nous animent au quotidien.</p>
@@ -90,7 +91,7 @@
       </div>
       <div class="col-md-4">
         <div class="service-item">
-            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_190172178.jpeg" alt="">
+            <img src="wp-content/themes/conexcap/assets/images/AdobeStock_184012339.jpeg" alt="">
           <div class="down-content">
             <h4>L’éthique</h4>
             <p>Nous assurons et préservons les intérêts de nos clients et intégrons une forte dimension éthique dans le choix des solutions proposées.</p>
@@ -179,7 +180,8 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
-                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_110722443.jpeg" alt=""></div>
+
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_97147350.jpeg" alt=""></div>
               <h4>Stratégie patrimoniale</h4>
               <p>Nos stratégies tiennent compte de votre situation (personnelle, professionnelle et patrimoniale), de vos objectifs et de vos projets de vie. Cette analyse est nécessaire à la mise en place d’une stratégie optimisée.</p>
             </div>
@@ -187,7 +189,7 @@
           
           <div class="testimonial-item">
             <div class="inner-content">
-                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_97147350.jpeg" alt=""></div>
+                <div><img src="wp-content/themes/conexcap/assets/images/AdobeStock_110722443.jpeg" alt=""></div>
               <h4>Investissements Financiers</h4>
               <p>Nos solutions d’investissement alliant performance et éthique vous permettent de faire fructifier votre patrimoine selon vos objectifs et votre tolérance aux risques.</p>
             </div>
